@@ -40,3 +40,17 @@ First snapshot of **Striving Fighter**!
 - AZERTY keyboards are now supported.
 - Fixed a problem where the dollar counter was displayed too far to the left on screens with resolutions other than 16:9.
 - Fixed a problem where buttons could be clicked with the Space key.
+
+## 202447a - 24.11.2024
+
+### Additions
+
+- Added animations to the central block.
+- Added display and hide animations to UI windows.
+
+### Improvements
+
+- Modification of UI window background.
+- Redesigned save buttons in settings.
+- Redesigned UI window display and hiding system.
+- Updated localization file.

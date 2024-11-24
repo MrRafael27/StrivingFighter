@@ -40,3 +40,17 @@ Première snapshot de **Striving Fighter** !
 - Les claviers AZERTY sont maintenant supportés.
 - Correction d'un problème à cause duquel le compteur de dollars s'affichait trop à gauche sur des écrans ayant une résolution autre que 16/9.
 - Correction d'un problème à cause duquel les boutons étaient cliquables avec la touche Espace.
+
+## 202447a - 24.11.2024
+
+### Nouveautés
+
+- Ajout d'animations au bloc central.
+- Ajout d'animations d'affichage et de masquage aux fenêtres de l'UI.
+
+### Améliorations
+
+- Modification de l'arrière-plan des fenêtres de l'UI.
+- Refonte des boutons de sauvegarde dans les paramètres.
+- Refonte du système d'affichage et de masquage des fenêtres de l'UI.
+- Mise à jour du fichier de localisation.
