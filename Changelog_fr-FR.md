@@ -54,3 +54,15 @@ Première snapshot de **Striving Fighter** !
 - Refonte des boutons de sauvegarde dans les paramètres.
 - Refonte du système d'affichage et de masquage des fenêtres de l'UI.
 - Mise à jour du fichier de localisation.
+
+## 202448a - 01.12.2024
+
+### Nouveautés
+
+- Ajout des textures des boutons de l'entrepôt et de la carrière.
+- Ajout du système d'inventaire.
+
+### Améliorations
+
+- Modification du système d'affichage et de masquage des fenêtres de l'UI.
+- Modification de certains éléments de l'UI de l'inventaire.

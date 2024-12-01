@@ -54,3 +54,15 @@ First snapshot of **Striving Fighter**!
 - Redesigned save buttons in settings.
 - Redesigned UI window display and hiding system.
 - Updated localization file.
+
+## 202448a - 01.12.2024
+
+### Additions
+
+- Added textures for warehouse and quarry buttons.
+- Added inventory system.
+
+### Improvements
+
+- Modification of the UI window display and hiding system.
+- Modification of certain inventory UI elements.
