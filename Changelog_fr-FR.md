@@ -66,3 +66,19 @@ Première snapshot de **Striving Fighter** !
 
 - Modification du système d'affichage et de masquage des fenêtres de l'UI.
 - Modification de certains éléments de l'UI de l'inventaire.
+
+## 202449a - 08.12.2024
+
+### Améliorations
+
+- Refonte du système de blocs et d'inventaire.
+- Refonte de certains sprites et textures.
+- Le nombre d'emplacements dans l'inventaire par défaut est de 10.
+- Modification des 10 arrière-plans des 10 régions du jeu.
+- Mise à jour du fichier de localisation.
+- De nombreux éléments importants ont été modifiés dans le code du jeu.
+- Suppression du logo d'Unity au démarrage du jeu.
+
+### Corrections
+
+- Correction d'un problème à cause duquel un clic sur un bloc cassé faisait apparaitre momentanément un nouveau bloc avant d'en recharger un deuxième.

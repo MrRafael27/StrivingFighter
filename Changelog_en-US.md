@@ -66,3 +66,19 @@ First snapshot of **Striving Fighter**!
 
 - Modification of the UI window display and hiding system.
 - Modification of certain inventory UI elements.
+
+## 202449a - 08.12.2024
+
+### Improvements
+
+- Overhaul of the block and inventory system.
+- Overhaul of some sprites and textures.
+- The default number of inventory slots is 10.
+- Modification of the 10 backgrounds of the game's 10 regions.
+- Updated localization file.
+- Many important elements have been modified in the game code.
+- Removed the Unity logo at game startup.
+
+### Corrections
+
+- Fixed a problem where clicking on a broken block would momentarily spawn a new block before reloading a second one.
