@@ -82,3 +82,18 @@ First snapshot of **Striving Fighter**!
 ### Corrections
 
 - Fixed a problem where clicking on a broken block would momentarily spawn a new block before reloading a second one.
+
+## 202450a - 15.12.2024
+
+### Additions
+
+- Added world map.
+- It is now possible to change the region by clicking on one of the waypoints on the world map.
+
+### Improvements
+
+- The Escape key is now used to close other UI windows before displaying settings.
+
+### Corrections
+
+- Fixed a problem where some UI windows could not be closed properly.

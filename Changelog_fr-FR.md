@@ -82,3 +82,18 @@ Première snapshot de **Striving Fighter** !
 ### Corrections
 
 - Correction d'un problème à cause duquel un clic sur un bloc cassé faisait apparaitre momentanément un nouveau bloc avant d'en recharger un deuxième.
+
+## 202450a - 15.12.2024
+
+### Nouveautés
+
+- Ajout de la carte du monde.
+- Il est maintenant possible de changer de région en cliquant sur l'un des points de la carte du monde.
+
+### Améliorations
+
+- La touche Échap permet désormais de fermer les autres fenêtres de l'UI avant d'afficher les paramètres.
+
+### Corrections
+
+- Correction d'un problème à cause duquel certaines fenêtres de l'UI ne pouvaient pas être fermées correctement.
