@@ -97,3 +97,27 @@ Première snapshot de **Striving Fighter** !
 ### Corrections
 
 - Correction d'un problème à cause duquel certaines fenêtres de l'UI ne pouvaient pas être fermées correctement.
+
+## 202451a - 24.12.2024
+
+### Nouveautés
+
+- Ajout des items de la Clairière Enchantée, qui ont chacun un taux d'apparition différent pour chaque souterrain.
+- Ajout des adversaires de la Clairière Enchantée, qui ont 10 % de chance d'apparaitre à la place du bloc central, et un taux d'apparition différent pour chaque souterrain.
+- Ajout de 20 emplacements dans l'entrepôt.
+- Ajout de l'icône du jeu.
+
+### Améliorations
+
+- Suppression des fenêtres de l'entrepôt et de la carrière.
+- Les paramètres sont désormais indiqués comme étant "en cours de développement" : il s'agit d'une fenêtre temporaire qui sera retravaillée bientôt.
+- Les points de la carte sont maintenant verrouillés lorsqu'une région n'a pas encore été débloquée par le joueur.
+- Suppression du fondu au noir de l'arrière-plan du jeu lorsque le joueur tente d'accéder à la région dans laquelle il se situe déjà.
+- Suppression du fondu au noir au démarrage du jeu.
+- Au démarrage du jeu, l'adversaire ou le bloc chargé en premier n'est plus le dernier qui était apparu avant la sauvegarde de la partie, mais un tout nouvel adversaire ou bloc.
+- Déplacement du compteur d'items dans un emplacement de l'inventaire ou de l'entrepôt et ajout d'une ombre derrière celui-ci.
+- Modification de l'écran de chargement du jeu.
+- Ajout d'une ombre derrière le bloc ou l'adversaire central.
+- Suppression du voile noir au passage de la souris sur le bloc ou l'adversaire central.
+- De nombreux éléments importants ont été modifiés dans le code du jeu.
+- Mise à jour du fichier de localisation.

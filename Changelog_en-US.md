@@ -97,3 +97,27 @@ First snapshot of **Striving Fighter**!
 ### Corrections
 
 - Fixed a problem where some UI windows could not be closed properly.
+
+## 202451a - 24.12.2024
+
+### Additions
+
+- Added items for the Enchanted Glade, each with a different rate of spawn for each underground.
+- Added enemies in the Enchanted Glade, with a 10% chance to spawn instead of the central block, and a different spawn rate for each underground.
+- Addition of 20 slots in the warehouse.
+- Added game icon.
+
+### Improvements
+
+- Removed warehouse and quarry windows.
+- Settings are now indicated as “work in progress”: this is a temporary window which will be reworked soon.
+- Map waypoints are now locked when a region has not yet been unlocked by the player.
+- Removed the fade to black in the game background when the player tries to access the region he is already in.
+- Removed the fade to black at game startup.
+- When the game starts, the enemy or block loaded first is no longer the last one that previously spawned before the game was saved, but a completely new enemy or block.
+- Moved the item counter to an inventory or warehouse slot and added a shadow behind it.
+- Modification of the game's loading screen.
+- Added a shadow behind the central block or enemy.
+- Removal of the black veil when moving the mouse over the central block or enemy.
+- Many important elements have been modified in the game code.
+- Updated localization file.
