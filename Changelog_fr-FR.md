@@ -121,3 +121,9 @@ Première snapshot de **Striving Fighter** !
 - Suppression du voile noir au passage de la souris sur le bloc ou l'adversaire central.
 - De nombreux éléments importants ont été modifiés dans le code du jeu.
 - Mise à jour du fichier de localisation.
+
+## 202452a - 29.12.2024
+
+### Corrections
+
+- Correction d'un problème à cause duquel l'icône du jeu ne s'affichait pas correctement sur Android.

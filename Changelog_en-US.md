@@ -121,3 +121,9 @@ First snapshot of **Striving Fighter**!
 - Removal of the black veil when moving the mouse over the central block or enemy.
 - Many important elements have been modified in the game code.
 - Updated localization file.
+
+## 202452a - 29.12.2024
+
+### Corrections
+
+- Fixed a problem where the game icon was not displayed correctly on Android.
