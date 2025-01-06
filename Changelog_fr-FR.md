@@ -127,3 +127,17 @@ Première snapshot de **Striving Fighter** !
 ### Corrections
 
 - Correction d'un problème à cause duquel l'icône du jeu ne s'affichait pas correctement sur Android.
+
+## 202501a - 06.01.2025
+
+### Nouveautés
+
+- Ajout des barres de vie et d'énergie du joueur.
+
+### Améliorations
+
+- La version d'Android minimale pour lancer le jeu est désormais Android 6.0 (API level 23).
+
+### Corrections
+
+- Correction d'un problème à cause duquel le nom de certains adversaires ne s'affichait pas complètement au-dessus de l'entité centrale.
