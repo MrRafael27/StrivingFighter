@@ -141,3 +141,22 @@ Première snapshot de **Striving Fighter** !
 ### Corrections
 
 - Correction d'un problème à cause duquel le nom de certains adversaires ne s'affichait pas complètement au-dessus de l'entité centrale.
+
+## 202502a - 12.01.2025
+
+### Nouveautés
+
+- Ajout du nom du souterrain actuel sous le nom de la région.
+- Ajout d'un slider permettant de changer la taille des éléments de l'UI.
+- Ajout d'un bouton permettant de réinitialiser les préférences du jeu dans les paramètres.
+- Ajout d'une fenêtre d'information, qui comporte notamment les barres de vie et d'énergie du joueur, à gauche de l'entité centrale.
+
+### Améliorations
+
+- D'importantes modifications ont été apportées à l'UI afin que les éléments visuels s'adaptent à toutes les résolutions et définitions d'écran.
+- Modification de l'animation de changement de région et de souterrain.
+- Suppression d'un voile qui apparaissait lorsque l'entité centrale était cliquée.
+- Le score n'augmente plus désormais lorsque l'entité cliquée est un adversaire.
+- Un changement de région ou de souterrain ferme désormais toutes les fenêtres de l'UI.
+- Déplacement de quelques épingles de la carte du monde.
+- Mise à jour du fichier de localisation.

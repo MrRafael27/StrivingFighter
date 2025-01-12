@@ -141,3 +141,22 @@ First snapshot of **Striving Fighter**!
 ### Corrections
 
 - Fixed a problem where some enemies' names were not displayed completely above the central entity.
+
+## 202502a - 12.01.2025
+
+### Additions
+
+- Added the name of the current underground under the region name.
+- Added a slider to change the scale of UI elements.
+- Added a button to reset game preferences in the settings.
+- Added an information window, including the player's life and energy bars, to the left of the central entity.
+
+### Improvements
+
+- Major changes have been made to the UI so that visual elements adapt to all resolutions and screen definitions.
+- Modification of the animation for region and underground changes.
+- Removed a veil that appeared when the central entity was clicked.
+- The score no longer increases when the entity clicked is an enemy.
+- Changing region or underground now closes all UI windows.
+- Moved some world map waypoints.
+- Updated localization file.
