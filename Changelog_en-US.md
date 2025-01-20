@@ -110,7 +110,7 @@ First snapshot of **Striving Fighter**!
 ### Improvements
 
 - Removed warehouse and quarry windows.
-- Settings are now indicated as “work in progress”: this is a temporary window which will be reworked soon.
+- Settings are now indicated as "work in progress": this is a temporary window which will be reworked soon.
 - Map waypoints are now locked when a region has not yet been unlocked by the player.
 - Removed the fade to black in the game background when the player tries to access the region he is already in.
 - Removed the fade to black at game startup.
@@ -160,3 +160,19 @@ First snapshot of **Striving Fighter**!
 - Changing region or underground now closes all UI windows.
 - Moved some world map waypoints.
 - Updated localization file.
+
+## 202503a - 20.01.2025
+
+### Additions
+
+- Added an FPS counter at the top left of the dollar counter, which can be disabled in the settings.
+
+### Improvements
+
+- Modification of the statistics window to the left of the central entity.
+- Support for "safe zones" on mobile devices: if the edges of the device are rounded or if a front camera is present, for example, no important UI elements will be hidden.
+
+### Corrections
+
+- Fixed a few performance problems that players could encounter.
+- Fixed a problem where the game would launch with an interface size that was too large.

@@ -160,3 +160,19 @@ Première snapshot de **Striving Fighter** !
 - Un changement de région ou de souterrain ferme désormais toutes les fenêtres de l'UI.
 - Déplacement de quelques épingles de la carte du monde.
 - Mise à jour du fichier de localisation.
+
+## 202503a - 20.01.2025
+
+### Nouveautés
+
+- Ajout d'un compteur de FPS en haut à gauche du compteur de dollars, qui peut être désactivé dans les paramètres.
+
+### Améliorations
+
+- Modification de la fenêtre des statistiques à gauche de l'entité centrale.
+- Prise en charge des "zones sûres" des appareils mobiles : si les bords de l'appareil sont arrondis ou si une caméra frontale est présente par exemple, aucun élément important de l'UI sera caché.
+
+### Corrections
+
+- Correction de quelques problèmes de performances que les joueurs pouvaient rencontrer.
+- Correction d'un problème à cause duquel le jeu se lançait avec une taille d'interface trop grande.
