@@ -176,3 +176,9 @@ First snapshot of **Striving Fighter**!
 
 - Fixed a few performance problems that players could encounter.
 - Fixed a problem where the game would launch with an interface size that was too large.
+
+## 202504a - 27.01.2025
+
+### Improvements
+
+- Optimization of the UI window opening and closing system.
