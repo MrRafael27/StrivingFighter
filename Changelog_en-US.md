@@ -182,3 +182,9 @@ First snapshot of **Striving Fighter**!
 ### Improvements
 
 - Optimization of the UI window opening and closing system.
+
+## 202505a - 04.02.2025
+
+### Improvements
+
+- Improved display of UI elements on screens with resolutions other than 16:9.

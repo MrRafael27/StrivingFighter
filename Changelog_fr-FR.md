@@ -182,3 +182,9 @@ Première snapshot de **Striving Fighter** !
 ### Améliorations
 
 - Optimisation du système d'ouverture et de fermeture des fenêtres de l'UI.
+
+## 202505a - 04.02.2025
+
+### Améliorations
+
+- Amélioration de l'affichage des éléments de l'UI sur des écrans ayant une définition autre que 16:9.
