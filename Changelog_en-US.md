@@ -188,3 +188,19 @@ First snapshot of **Striving Fighter**!
 ### Improvements
 
 - Improved display of UI elements on screens with resolutions other than 16:9.
+
+## 202506a - 09.02.2025
+
+### Improvements
+
+- Improved the UI scale slider.
+- Removed the option to hide the FPS counter in the settings.
+- Started redesigning the settings window.
+- Moved the game version text.
+- The display language at first game launch is now the device language.
+- Improved display of UI elements on screens with resolutions other than 16:9.
+- Updated localization file.
+
+### Corrections
+
+- Fixed a problem where the game would always launch with the UI at its maximum size.

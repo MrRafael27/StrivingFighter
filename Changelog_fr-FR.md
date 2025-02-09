@@ -188,3 +188,19 @@ Première snapshot de **Striving Fighter** !
 ### Améliorations
 
 - Amélioration de l'affichage des éléments de l'UI sur des écrans ayant une définition autre que 16:9.
+
+## 202506a - 09.02.2025
+
+### Améliorations
+
+- Amélioration du slider de l'échelle de l'UI.
+- Suppression de l'option qui permettait de masquer le compteur de FPS dans les paramètres.
+- Début de la refonte de la fenêtre des paramètres.
+- Déplacement du texte de la version du jeu.
+- La langue d'affichage au premier lancement du jeu est désormais la langue de l'appareil.
+- Amélioration de l'affichage des éléments de l'UI sur des écrans ayant une définition autre que 16:9.
+- Mise à jour du fichier de localisation.
+
+### Corrections
+
+- Correction d'un problème à cause duquel le jeu se lançait toujours avec une UI à sa taille maximale.
