@@ -204,3 +204,16 @@ First snapshot of **Striving Fighter**!
 ### Corrections
 
 - Fixed a problem where the game would always launch with the UI at its maximum size.
+
+## 202507a - 16.02.2025
+
+### Improvements
+
+- Redesign of part of the settings window.
+- Modification of UI button animations.
+- Modification of UI window masks.
+- Optimized game launch.
+
+### Corrections
+
+- Fixed a problem where the game version text would overflow the settings window when the UI was zoomed out.
