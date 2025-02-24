@@ -217,3 +217,14 @@ First snapshot of **Striving Fighter**!
 ### Corrections
 
 - Fixed a problem where the game version text would overflow the settings window when the UI was zoomed out.
+
+## 202508a - 24.02.2025
+
+### Additions
+
+- Added different durabilities for blocks and different numbers of HP for enemies.
+
+### Improvements
+
+- Improved UI scale slider.
+- Modified the appearance of the FPS counter.

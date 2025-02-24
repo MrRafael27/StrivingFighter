@@ -217,3 +217,14 @@ Première snapshot de **Striving Fighter** !
 ### Corrections
 
 - Correction d'un problème à cause duquel le texte de la version du jeu débordait de la fenêtre des paramètres lorsque l'UI était dézoomée.
+
+## 202508a - 24.02.2025
+
+### Nouveautés
+
+- Ajout de durabilités différentes pour les blocs et de nombres de PV différents pour les adversaires.
+
+### Améliorations
+
+- Amélioration du slider de l'échelle de l'UI.
+- Modification de l'apparence du compteur de FPS.
