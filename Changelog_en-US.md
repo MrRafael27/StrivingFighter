@@ -228,3 +228,13 @@ First snapshot of **Striving Fighter**!
 
 - Improved UI scale slider.
 - Modified the appearance of the FPS counter.
+
+## 202509a - 03.03.2025
+
+### Improvements
+
+- Redesigned settings window.
+- Significant changes have been made to the UI so that visual elements adapt to all resolutions and screen definitions.
+- Improved UI window masks.
+- Modification of the backgrounds of some of the game's regions.
+- Updated localization file.
