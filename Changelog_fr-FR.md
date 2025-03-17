@@ -238,3 +238,13 @@ Première snapshot de **Striving Fighter** !
 - Amélioration du masque des fenêtres de l'UI.
 - Modification des arrière-plans de quelques régions du jeu.
 - Mise à jour du fichier de localisation.
+
+## 202511a - 17.03.2025
+
+### Améliorations
+
+- Amélioration des animations de l'entité centrale.
+- Amélioration des animations des boutons.
+- Le compteur de FPS est masqué par défaut et peut être affiché à l'aide de la touche F.
+- Le jeu se fermera désormais après la suppression de la sauvegarde dans les paramètres.
+- Mise à jour du fichier de localisation.

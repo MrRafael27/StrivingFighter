@@ -238,3 +238,13 @@ First snapshot of **Striving Fighter**!
 - Improved UI window masks.
 - Modification of the backgrounds of some of the game's regions.
 - Updated localization file.
+
+## 202511a - 17.03.2025
+
+### Improvements
+
+- Improved central entity animations.
+- Improved button animations.
+- The FPS counter is hidden by default and can now be displayed using the F key.
+- The game will now close after deleting the save in the settings.
+- Updated localization file.
