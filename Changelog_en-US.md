@@ -248,3 +248,15 @@ First snapshot of **Striving Fighter**!
 - The FPS counter is hidden by default and can now be displayed using the F key.
 - The game will now close after deleting the save in the settings.
 - Updated localization file.
+
+## 202513a - 30.03.2025
+
+### Improvements
+
+- The UI scale change parameter is hidden on mobile.
+- Redesign of some elements in the settings window.
+
+### Corrections
+
+- Fixed a problem where the click animation on the central entity would play once too often after the entity had been broken.
+- Fixed a problem where the UI scale slider was not displayed correctly when the game started.

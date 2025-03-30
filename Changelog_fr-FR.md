@@ -248,3 +248,15 @@ Première snapshot de **Striving Fighter** !
 - Le compteur de FPS est masqué par défaut et peut être affiché à l'aide de la touche F.
 - Le jeu se fermera désormais après la suppression de la sauvegarde dans les paramètres.
 - Mise à jour du fichier de localisation.
+
+## 202513a - 30.03.2025
+
+### Améliorations
+
+- Le paramètre de changement de l'échelle de l'UI est masqué sur mobile.
+- Refonte de certains éléments de la fenêtre des paramètres.
+
+### Corrections
+
+- Correction d'un problème à cause duquel l'animation de clic sur l'entité centrale se jouait une fois de trop après la casse de l'entité.
+- Correction d'un problème à cause duquel le slider de l'échelle de l'UI ne s'affichait pas correctement au démarrage du jeu.
