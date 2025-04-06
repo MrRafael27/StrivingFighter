@@ -260,3 +260,16 @@ Première snapshot de **Striving Fighter** !
 
 - Correction d'un problème à cause duquel l'animation de clic sur l'entité centrale se jouait une fois de trop après la casse de l'entité.
 - Correction d'un problème à cause duquel le slider de l'échelle de l'UI ne s'affichait pas correctement au démarrage du jeu.
+
+## 202514a - 06.04.2025
+
+### Améliorations
+
+- Suite de la refonte de la fenêtre des paramètres.
+- Amélioration du système de sauvegarde.
+- La partie est désormais sauvegardée automatiquement à la fermeture du jeu.
+- Le jeu est relancé automatiquement après la suppression de la sauvegarde.
+
+### Corrections
+
+- Correction d'un problème à cause duquel le dernier bloc ou adversaire rencontré ne réapparaissait pas au lancement du jeu suivant.

@@ -260,3 +260,16 @@ First snapshot of **Striving Fighter**!
 
 - Fixed a problem where the click animation on the central entity would play once too often after the entity had been broken.
 - Fixed a problem where the UI scale slider was not displayed correctly when the game started.
+
+## 202514a - 06.04.2025
+
+### Improvements
+
+- Continued reworking of the settings window.
+- Improved save system.
+- The game is now automatically saved when the game is closed.
+- The game is restarted automatically after the save is deleted.
+
+### Corrections
+
+- Fixed a problem where the last block or enemy encountered would not reappear when the next game was launched.
