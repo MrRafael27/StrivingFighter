@@ -273,3 +273,10 @@ First snapshot of **Striving Fighter**!
 ### Corrections
 
 - Fixed a problem where the last block or enemy encountered would not reappear when the next game was launched.
+
+## 202515a - 14.04.2025
+
+### Additions
+
+- Added combat system basics.
+- Added saving of warehouse blocks.

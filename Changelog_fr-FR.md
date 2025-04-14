@@ -273,3 +273,10 @@ Première snapshot de **Striving Fighter** !
 ### Corrections
 
 - Correction d'un problème à cause duquel le dernier bloc ou adversaire rencontré ne réapparaissait pas au lancement du jeu suivant.
+
+## 202515a - 14.04.2025
+
+### Nouveautés
+
+- Ajout des bases du système de combat.
+- Ajout de la sauvegarde des blocs de l'entrepôt.
