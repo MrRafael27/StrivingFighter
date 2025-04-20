@@ -280,3 +280,13 @@ First snapshot of **Striving Fighter**!
 
 - Added combat system basics.
 - Added saving of warehouse blocks.
+
+## 202516a - 20.04.2025
+
+### Additions
+
+- Added inventory item saving.
+
+### Improvements
+
+- It is now possible to swap two inventory or warehouse items.

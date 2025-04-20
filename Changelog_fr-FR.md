@@ -280,3 +280,13 @@ Première snapshot de **Striving Fighter** !
 
 - Ajout des bases du système de combat.
 - Ajout de la sauvegarde des blocs de l'entrepôt.
+
+## 202516a - 20.04.2025
+
+### Nouveautés
+
+- Ajout de la sauvegarde des items de l'inventaire.
+
+### Améliorations
+
+- Il est maintenant possible d'échanger deux items de l'inventaire ou de l'entrepôt.
