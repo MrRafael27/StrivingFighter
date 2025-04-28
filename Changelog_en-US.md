@@ -290,3 +290,15 @@ First snapshot of **Striving Fighter**!
 ### Improvements
 
 - It is now possible to swap two inventory or warehouse items.
+
+## 202517a - 28.04.2025
+
+### Additions
+
+- Added quarry upgrade system.
+- Warehouse blocks can now be sold by right-clicking on them.
+
+### Improvements
+
+- Added a one-second delay after deleting the save game and before starting a new game.
+- Updated localization file.

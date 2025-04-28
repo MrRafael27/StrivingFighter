@@ -290,3 +290,15 @@ Première snapshot de **Striving Fighter** !
 ### Améliorations
 
 - Il est maintenant possible d'échanger deux items de l'inventaire ou de l'entrepôt.
+
+## 202517a - 28.04.2025
+
+### Nouveautés
+
+- Ajout du système de mise à niveau de carrière.
+- Les blocs de l'entrepôt peuvent être vendus en effectuant un clic droit sur eux.
+
+### Améliorations
+
+- Ajout d'un délai d'une seconde après la suppression de la sauvegarde et avant le démarrage d'une nouvelle partie.
+- Mise à jour du fichier de localisation.
