@@ -302,3 +302,17 @@ First snapshot of **Striving Fighter**!
 
 - Added a one-second delay after deleting the save game and before starting a new game.
 - Updated localization file.
+
+## 202518a - 04.05.2025
+
+### Improvements
+
+- Improved opening and closing system for UI windows.
+- The UI windows now always open in front of those already open.
+- The dollar counter is now always displayed in front of UI windows.
+- Improved FPS counter performance.
+- Reduced delay after save deletion.
+
+### Corrections
+
+- Fixed a problem where the cost of a quarry upgrade was not displayed correctly in the quarry window.

@@ -302,3 +302,17 @@ Première snapshot de **Striving Fighter** !
 
 - Ajout d'un délai d'une seconde après la suppression de la sauvegarde et avant le démarrage d'une nouvelle partie.
 - Mise à jour du fichier de localisation.
+
+## 202518a - 04.05.2025
+
+### Améliorations
+
+- Amélioration du système d'ouverture et de fermeture des fenêtres de l'UI.
+- Les fenêtres de l'UI s'ouvrent désormais toujours devant celles déjà ouvertes.
+- Le compteur de dollars est maintenant toujours affiché devant les fenêtres de l'UI.
+- Amélioration des performances du compteur de FPS.
+- Réduction du délai après la suppression de la sauvegarde.
+
+### Corrections
+
+- Correction d'un problème à cause duquel le cout de la mise à niveau de carrière ne s'affichait pas correctement dans la fenêtre de la carrière.
